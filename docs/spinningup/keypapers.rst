@@ -40,6 +40,8 @@ b. Policy Gradients
 
 .. [#] `Proximal Policy Optimization Algorithms <https://arxiv.org/abs/1707.06347>`_, Schulman et al, 2017. **Algorithm: PPO-Clip, PPO-Penalty.**
 
+.. [#] TODO: add info `Matters in Deep RL: A Case Study on PPO and TRPO`
+
 .. [#] `Emergence of Locomotion Behaviours in Rich Environments <https://arxiv.org/abs/1707.02286>`_, Heess et al, 2017. **Algorithm: PPO-Penalty.**
 
 .. [#] `Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation <https://arxiv.org/abs/1708.05144>`_, Wu et al, 2017. **Algorithm: ACKTR.**
